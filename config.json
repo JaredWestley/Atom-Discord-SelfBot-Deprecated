@@ -1,0 +1,16 @@
+{
+  "token": "add-your-own-token-key",
+  "password": "password-here",
+  "prefix": ".",
+  "paypalmail": "paypal-email",
+  "paypalmelink": "Please enter a PayPalme link",
+  "auto_delete_timeout": "30",
+  "auto_giveaway_delay": "200",
+  "silent_mode":  false,
+  
+  "nitro_sniper": true,
+  "giveaway_sniper": true,
+
+  "stream": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "tts": "en"
+}

@@ -1,0 +1,31 @@
+# AtomSB Selfbot Requirements
+# Install with: pip install -r requirements.txt
+
+# Discord
+discord
+
+# Web & Networking
+requests
+requests_toolbelt
+aiohttp
+urllib3
+dnspython
+
+# Utilities
+colorama
+pillow
+pyyaml
+pycryptodome
+
+# for specific features
+gtts                          # Text-to-speech (TTS)
+playsound                     # Sound notifications
+selenium                      # Token login feature
+webdriver-manager             # Selenium driver management
+beautifulsoup4                # HTML parsing (bs4)
+mss                           # Screenshot feature
+psutil                        # System info
+gputil                        # GPU info
+py-cpuinfo                    # CPU info
+keyboard                      # Keyboard automation
+numpy                         # Numerical computing
