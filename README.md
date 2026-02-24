@@ -20,7 +20,7 @@ The application consists of:
 - 📱 Over 100+ commands.
 - 🧠 Python-based codebase.
 
-The version I have uploaded here is V1.4, at one point I got up to V2 but has been lost to time. I did get to 225+ commands in that final V2.0 version.
+The version I have uploaded here is V1.4, at one point I got up to V2 but has been lost to time. The Final version V2 had over 225+ commands.
 
 Most of the links, features and functions are fundamentally broken due to the age and lack of support for old versions of software. I have added some handlers to allow you to get it running up to the dashboard screen. And I have also tried to modularise it for easier reviewing.
 
